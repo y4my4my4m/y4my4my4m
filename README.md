@@ -7,7 +7,7 @@
 
 <a href="https://github.com/y4my4my4m">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=y4my4my4m&show_icons=true&theme=tokyonight&count_private=true" alt="y4my4my4m's github stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4my4my4m&theme=tokyonight&layout=compact" alt="y4my4my4m's github top languages" />
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4my4my4m&theme=tokyonight&layout=compact" alt="y4my4my4m's github top languages" /> -->
 </a>
 <br/>
 <a href="https://github.com/y4my4my4m/kde-shader-wallpaper">
