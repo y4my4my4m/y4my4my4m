@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/y4my4my4m?label=Follow&style=social)](https://github.com/y4my4my4m)
 
-- ⚡ Check out my game that uses A.I: https://twitter.com/CyberShadowAI
+- ⚡ Check out my game: [CyberShadowAI](https://twitter.com/CyberShadowAI)
 - 🔭 I’m currently working on KDE wallpaper plugin
 - 👯 I’m looking to collaborate on A.I. or Unity3D projects
 
