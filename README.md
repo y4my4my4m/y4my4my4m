@@ -1,5 +1,8 @@
 ### y4my4my4m's profile
 
+Hi Blowfish! Thanks for everything 😄
+✨2286✨
+
 [![Github](https://img.shields.io/github/followers/y4my4my4m?label=Follow&style=social)](https://github.com/y4my4my4m)
 
 - ⚡ Check out my game: [CyberShadowAI](https://twitter.com/CyberShadowAI)
@@ -14,6 +17,7 @@
 <a href="https://github.com/y4my4my4m/kde-shader-wallpaper">
 <img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=y4my4my4m&repo=kde-shader-wallpaper&theme=tokyonight"
 </a>
+
 
 <!--
 **y4my4my4m/y4my4my4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
