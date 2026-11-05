@@ -7,5 +7,5 @@
 - 🔭 6 years strong working on [KDE wallpaper plugin](https://github.com/y4my4my4m/kde-shader-wallpaper)
 
 <a href="https://github.com/y4my4my4m/kde-shader-wallpaper">
-<img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=y4my4my4m&repo=kde-shader-wallpaper&theme=tokyonight"
+<img height="126em" src="https://github-stats-extended.vercel.app/api/pin/?username=y4my4my4m&repo=kde-shader-wallpaper&theme=tokyonight"
 </a>
