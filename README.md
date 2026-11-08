@@ -9,3 +9,7 @@
 <a href="https://github.com/y4my4my4m/kde-shader-wallpaper">
 <img height="126em" src="https://github-stats-extended.vercel.app/api/pin/?username=y4my4my4m&repo=kde-shader-wallpaper&theme=tokyonight"
 </a>
+
+<a href="https://github.com/y4my4my4m/harmony">
+<img height="126em" src="https://github-stats-extended.vercel.app/api/pin/?username=y4my4my4m&repo=harmony&theme=tokyonight"
+</a>
